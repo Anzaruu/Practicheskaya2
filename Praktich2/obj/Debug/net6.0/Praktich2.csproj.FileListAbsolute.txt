@@ -1,0 +1,15 @@
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\bin\Debug\net6.0\Praktich2.exe
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\bin\Debug\net6.0\Praktich2.deps.json
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\bin\Debug\net6.0\Praktich2.runtimeconfig.json
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\bin\Debug\net6.0\Praktich2.dll
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\bin\Debug\net6.0\Praktich2.pdb
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\obj\Debug\net6.0\Praktich2.csproj.AssemblyReference.cache
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\obj\Debug\net6.0\Praktich2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\obj\Debug\net6.0\Praktich2.AssemblyInfoInputs.cache
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\obj\Debug\net6.0\Praktich2.AssemblyInfo.cs
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\obj\Debug\net6.0\Praktich2.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\obj\Debug\net6.0\Praktich2.dll
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\obj\Debug\net6.0\refint\Praktich2.dll
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\obj\Debug\net6.0\Praktich2.pdb
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\obj\Debug\net6.0\Praktich2.genruntimeconfig.cache
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Praktich2\Praktich2\obj\Debug\net6.0\ref\Praktich2.dll
